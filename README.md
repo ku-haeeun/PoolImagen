@@ -1,4 +1,4 @@
 # PoolImagen
-Pooling mechanism + Imagen performance
-*/
-2024 ICAIIC Confernece presentation
++ Pooling mechanism + Imagen performance
+
++ 2024 ICAIIC Confernece presentation
